@@ -1,0 +1,23 @@
+.sidebar-container {
+  width: 260px;
+  height: 100vh;
+  background-color: #383838;
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  color: white;
+}
+
+.divider {
+  border-bottom: 1px solid #242424;
+}
+
+.sidebar-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.custom-dropdown .dropdown-toggle {
+  color: white;
+}
